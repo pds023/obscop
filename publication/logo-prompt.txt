@@ -1,0 +1,18 @@
+Logo de l’application Obs’COP 2025
+Méthode : outil intégré ImageGen, génération puis une retouche de style.
+Fichier final : inst/app/www/logo-obscop.png
+Identité graphique indépendante, sans logo EDF ou Ipsos.
+
+Prompt initial :
+Use case: logo-brand.
+Asset type: square application logo for a French independent open-data climate opinion dashboard, suitable as a thumbnail on data.gouv.fr.
+Primary request: create one refined, distinctive flat graphic emblem combining a globe and a dialogue bubble, with three small clean data points that subtly suggest public opinion. A single integrated geometric symbol, carefully balanced negative space, professional institutional editorial design. It should be readable at small size.
+Scene/backdrop: solid pale ivory background #F5F6F2, absolutely uniform, no border or presentation mockup.
+Composition: square 1024x1024, centered compact emblem with generous padding occupying about 66% of the canvas. Strong simple silhouette, consistent substantial line widths.
+Color palette: deep forest teal #177D70 and dark ink #203D38, with one small muted amber accent #D29646. Match a calm, clean data dashboard.
+Style: polished vector-like flat artwork, minimal, crisp edges, no shading, no gradients, no dimensionality.
+Text: none. No letters, no name, no slogan, no numbers.
+Constraints: an original identity for an independent reuse of public data. Do not reproduce or imitate EDF, Ipsos, ObsCOP official marks, government emblems, or any existing logo. Only the original globe/dialogue/data emblem. No watermark.
+
+Prompt de retouche finale :
+Edit the provided logo. Preserve the globe-shaped speech bubble concept and the three connected data points. Change only the rendering style to extremely clean flat vector-style graphics: solid fully opaque pale ivory #F5F6F2 background, solid teal land masses, solid deep teal outer border and solid amber central point. Remove absolutely all texture, noise, speckles, gradients, glow, highlights, shadows, transparency, and 3D effects. Every colored region must be a single perfectly uniform solid color. Simplify the continents into broad iconic shapes. Keep a square centered icon with generous padding, sharp geometry, legible at thumbnail size. No text, no letters, no real company marks. This is a polished professional original application icon, not a textured illustration.

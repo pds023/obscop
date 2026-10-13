@@ -1,0 +1,19 @@
+Obs’COP – EDF / IPSOS – Septembre 2025
+Licence : CC BY-NC-SA 4.0
+
+Lignes : 146275
+Pays : 30
+Séries de questions : 52
+Échantillon Monde : 23503
+
+Données agrégées publiées, sans microdonnées ni pondérations individuelles.
+Une seule vague : 2025. Aucune tendance historique ne peut être calculée.
+Les 30 pays et les 7 regroupements régionaux sont séparés ; les regroupements se recouvrent.
+Les profils démographiques et d'opinion portent sur le Monde ; aucun croisement pays × profil n'est disponible.
+Le Monde et les régions reprennent les résultats publiés, sans moyenne recalculée des pays.
+Les réponses multiples et les sous-totaux ST / SI OUI ne doivent pas être additionnés.
+Les bases peuvent varier selon les questions et les séries ; les arrondis peuvent empêcher une somme exacte de 100 %.
+V25Q4 : 181 effectifs de cible mal étiquetés % sont reclassés en Nombre. Deux séries sont conservées distinctement ; la base de la première est ambiguë.
+B8 : un libellé français répété à tort est corrigé à partir de l'anglais (méthodes de production des entreprises) ; le libellé source est conservé.
+Certains libellés anglais de population sont décalés dans la source ; les analyses utilisent les libellés français et les codes ISO des pays.
+Les échantillons absents ou ambigus restent manquants ; aucun intervalle de confiance n'est estimé sans plan de sondage.

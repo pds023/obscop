@@ -1,0 +1,15 @@
+Titre : Obs’COP 2025 — Explorer les opinions sur le climat
+
+Description courte :
+Explorez les opinions sur le changement climatique dans 30 pays grâce à une application interactive fondée sur l’enquête Obs’COP 2025. Cartes, classements, comparaisons, profils de population et relations entre indicateurs permettent d’analyser les préoccupations, les perceptions et les comportements. Les résultats sont filtrables et exportables, avec leurs sources, leurs bases et leurs limites méthodologiques.
+
+Source : Obs’COP – EDF / IPSOS – Septembre 2025.
+Données sous licence CC BY-NC-SA 4.0.
+Réutilisation indépendante ; application non officielle d’EDF ou d’Ipsos.
+
+Type de réutilisation : Application
+Thématique : Environnement et énergie
+Mots-clés suggérés : climat, opinion publique, changement climatique, enquête, comparaison internationale, visualisation, Shiny
+URL : renseigner l’URL publique HTTPS fournie après le déploiement sur Posit Connect Cloud.
+
+Les données couvrent uniquement 2025. Les profils de population sont internationaux et ne sont pas croisés avec les pays.

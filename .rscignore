@@ -1,0 +1,12 @@
+.artifacts
+.Rproj.user
+raw-data
+dev
+tests
+man
+publication
+README.md
+.gitignore
+.Rbuildignore
+obscop.Rproj
+obscop_0.1.0.tar.gz

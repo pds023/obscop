@@ -1,0 +1,182 @@
+"filter","population","is_world","is_country","is_region"
+"dans l'ensemble","",TRUE,FALSE,FALSE
+"Pays","Australie",FALSE,TRUE,FALSE
+"Pays","Belgique",FALSE,TRUE,FALSE
+"Pays","Brésil",FALSE,TRUE,FALSE
+"Pays","Canada",FALSE,TRUE,FALSE
+"Pays","Chili",FALSE,TRUE,FALSE
+"Pays","Chine",FALSE,TRUE,FALSE
+"Pays","Colombie",FALSE,TRUE,FALSE
+"Pays","République Tchéque",FALSE,TRUE,FALSE
+"Pays","Égypte",FALSE,TRUE,FALSE
+"Pays","France",FALSE,TRUE,FALSE
+"Pays","Allemagne",FALSE,TRUE,FALSE
+"Pays","Inde",FALSE,TRUE,FALSE
+"Pays","Indonésie",FALSE,TRUE,FALSE
+"Pays","Italie",FALSE,TRUE,FALSE
+"Pays","Japon",FALSE,TRUE,FALSE
+"Pays","Mexique",FALSE,TRUE,FALSE
+"Pays","Maroc",FALSE,TRUE,FALSE
+"Pays","Nigeria",FALSE,TRUE,FALSE
+"Pays","Norvège",FALSE,TRUE,FALSE
+"Pays","Pologne",FALSE,TRUE,FALSE
+"Pays","Arabie Saoudite",FALSE,TRUE,FALSE
+"Pays","Singapour",FALSE,TRUE,FALSE
+"Pays","Afrique du Sud",FALSE,TRUE,FALSE
+"Pays","Corée du Sud",FALSE,TRUE,FALSE
+"Pays","Espagne",FALSE,TRUE,FALSE
+"Pays","Suède",FALSE,TRUE,FALSE
+"Pays","Turquie",FALSE,TRUE,FALSE
+"Pays","Émirats Arabes Unis",FALSE,TRUE,FALSE
+"Pays","Royaume-Uni",FALSE,TRUE,FALSE
+"Pays","États-Unis",FALSE,TRUE,FALSE
+"Pays","ST EUROPE",FALSE,FALSE,TRUE
+"Pays","ST AMERIQUE DU NORD",FALSE,FALSE,TRUE
+"Pays","ST AMERIQUE DU SUD",FALSE,FALSE,TRUE
+"Pays","ST MOYEN ORIENT / AFRIQUE",FALSE,FALSE,TRUE
+"Pays","ST ASIE",FALSE,FALSE,TRUE
+"Pays","ST MENA",FALSE,FALSE,TRUE
+"Pays","ST Sans MENA",FALSE,FALSE,TRUE
+"Âge","16 à 24 ans",FALSE,FALSE,FALSE
+"Âge","25 à 34 ans",FALSE,FALSE,FALSE
+"Âge","35 à 44 ans",FALSE,FALSE,FALSE
+"Âge","45 à 54 ans",FALSE,FALSE,FALSE
+"Âge","55 ans et plus",FALSE,FALSE,FALSE
+"Âge","St 16 à 34 ans",FALSE,FALSE,FALSE
+"Âge","St 35 à 54 ans",FALSE,FALSE,FALSE
+"Genre","Masculin",FALSE,FALSE,FALSE
+"Genre","Féminin",FALSE,FALSE,FALSE
+"Profession","Profession libérale / Cadre / Professeur du secondaire",FALSE,FALSE,FALSE
+"Profession","Profession intermédiaire",FALSE,FALSE,FALSE
+"Profession","Ouvrier qualifié ou non qualifié",FALSE,FALSE,FALSE
+"Profession","Inactif/Retraité",FALSE,FALSE,FALSE
+"Profession","Travaille",FALSE,FALSE,FALSE
+"Profession","Ne travaille pas",FALSE,FALSE,FALSE
+"Taille d'agglomération","Urbain",FALSE,FALSE,FALSE
+"Taille d'agglomération","Rural",FALSE,FALSE,FALSE
+"Revenu du foyer","Bas",FALSE,FALSE,FALSE
+"Revenu du foyer","Moyen",FALSE,FALSE,FALSE
+"Revenu du foyer","Haut",FALSE,FALSE,FALSE
+"Nombre de personne habitant à votre adresse","1",FALSE,FALSE,FALSE
+"Nombre de personne habitant à votre adresse","2",FALSE,FALSE,FALSE
+"Nombre de personne habitant à votre adresse","3",FALSE,FALSE,FALSE
+"Nombre de personne habitant à votre adresse","4",FALSE,FALSE,FALSE
+"Nombre de personne habitant à votre adresse","5 ou plus",FALSE,FALSE,FALSE
+"Combien d'enfants dans votre foyer","None",FALSE,FALSE,FALSE
+"Combien d'enfants dans votre foyer","ST Au moins 1",FALSE,FALSE,FALSE
+"Combien d'enfants dans votre foyer","1",FALSE,FALSE,FALSE
+"Combien d'enfants dans votre foyer","2",FALSE,FALSE,FALSE
+"Combien d'enfants dans votre foyer","3 ou plus",FALSE,FALSE,FALSE
+"Âge des enfants","Au moins 1 en-dessous de 6 ans",FALSE,FALSE,FALSE
+"Âge des enfants","Au moins 1 en-dessous de 16 ans",FALSE,FALSE,FALSE
+"Âge des enfants","Aucun en-dessous de 16 ans",FALSE,FALSE,FALSE
+"Niveau d'éducation le plus élevé","Bas",FALSE,FALSE,FALSE
+"Niveau d'éducation le plus élevé","Moyen",FALSE,FALSE,FALSE
+"Niveau d'éducation le plus élevé","Haut",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Commerce, gestion et économie",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Marketing et communication",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Sciences (mathématiques, biologie, physique, etc.)",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Médecine et santé",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Ingénierie et technologie, digital",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Arts",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Sciences humaines et sociales",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Droit",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Autre",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","Aucun de ceux cités",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaine d'études ? (Niveau d'éducation élevé)","ST Sciences",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Commerce, gestion et économie",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Marketing et communication",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Sciences (mathématiques, biologie, physique, etc.)",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Médecine et santé",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Ingénierie et technologie, digital",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Arts",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Sciences humaines et sociales",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Droit",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Autre",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","Aucun de ceux cités",FALSE,FALSE,FALSE
+"TYPEDU. Quel est/était votre principal domaines d'études ? (Niveau d'éducation élevé ou moyen)","ST Sciences",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","Tous les jours ou presque tous les jours",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","Plusieurs fois par semaine",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","1 à 2 fois par semaine",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","Moins d’une fois par semaine",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","Jamais",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","Vous n'avez pas de voiture",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","ST A une voiture",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","ST Au moins plusieurs fois par semaine",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","ST 1 à 2 fois par semaine ou moins d'une fois par semaine",FALSE,FALSE,FALSE
+"CAR1. En moyenne, à quelle fréquence utilisez-vous votre voiture ?","ST Jamais ou vous n'avez pas de voiture",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","A chaque repas/deux fois par jour",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","Une fois par jour",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","Plusieurs fois par semaine, mais moins d'une fois par jour",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","Moins d’une fois par semaine",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","Jamais",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","ST Mange de la viande",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","ST Tous les jours",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","ST Hebdomadaire",FALSE,FALSE,FALSE
+"MEAT1. En moyenne, à quelle fréquence mangez-vous de la viande ou des repas à base de viande ?","ST Moins d'une fois par semaine ou jamais",FALSE,FALSE,FALSE
+"AIRCO. Disposez-vous d’un système de climatisation dans votre logement ?","Oui",FALSE,FALSE,FALSE
+"AIRCO. Disposez-vous d’un système de climatisation dans votre logement ?","Non",FALSE,FALSE,FALSE
+"AIRCO. Disposez-vous d’un système de climatisation dans votre logement ?","Ne sait pas",FALSE,FALSE,FALSE
+"B1/B3. Niveau de climato-scepticisme","PAS climato-sceptique",FALSE,FALSE,FALSE
+"B1/B3. Niveau de climato-scepticisme","ST Climato-sceptique",FALSE,FALSE,FALSE
+"B1/B3. Niveau de climato-scepticisme","dont climato-sceptique dur",FALSE,FALSE,FALSE
+"B1/B3. Niveau de climato-scepticisme","dont climato-sceptique mal informé",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","Menaces environnementales",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","ST Menaces environnementales",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","Le coût de la vie (inflation, pouvoir d’achat, etc…)",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","Le système de santé",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","Le coronavirus",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","Le changement climatique",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","ST Pas changement climatique",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","ST Environnement",FALSE,FALSE,FALSE
+"A1BIS. Parmi cette liste, quels sont les sujets qui vous préoccupent le plus ?","ST Pas l'environnement",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","Oui certainement",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","Oui probablement",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","Non probablement pas",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","Non certainement pas",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","SI OUI",FALSE,FALSE,FALSE
+"B1. Vous-même, diriez-vous que nous sommes en train de vivre un changement climatique ?","ST NON",FALSE,FALSE,FALSE
+"B17. Dans quelle mesure le changement climatique vous préoccupe ou non ?","ST 0 à 6",FALSE,FALSE,FALSE
+"B17. Dans quelle mesure le changement climatique vous préoccupe ou non ?","ST 7 à 8",FALSE,FALSE,FALSE
+"B17. Dans quelle mesure le changement climatique vous préoccupe ou non ?","ST 9 à 10",FALSE,FALSE,FALSE
+"A2. Parmi les deux propositions suivantes, avec laquelle êtes-vous le plus d’accord ? On devrait donner la priorité à…","L’environnement même si cela peut ralentir la croissance économique de votre pays et faire perdre des emplois",FALSE,FALSE,FALSE
+"A2. Parmi les deux propositions suivantes, avec laquelle êtes-vous le plus d’accord ? On devrait donner la priorité à…","La croissance économique et aux emplois même si cela peut avoir des conséquences néfastes pour l’environnement",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","Le changement climatique",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","Le recul de la biodiversité (disparition d’espèces animales et végétales)",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","La pollution de l’air",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","La pollution de l’eau",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","La pollution des sols (usage des engrais, pesticides)",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","L’épuisement des ressources (eau, sols, bois…)",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","L’accumulation des déchets, des emballages, du plastique",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","La désertification, la sècheresse",FALSE,FALSE,FALSE
+"A3. Quels sont, parmi la liste suivante, les problèmes liés à l’environnement que vous jugez les plus préoccupants dans votre pays ? Total","Déforestation",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","Beaucoup",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","Assez",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","Peu",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","Pas du tout",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","SI OUI",FALSE,FALSE,FALSE
+"C2. Pour chacun des mêmes acteurs, estimez-vous qu’ils agissent pour lutter contre le changement climatique dans votre pays ? : Le gouvernement","ST NON",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","Oui, tout à fait",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","Oui, plutôt",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","Non, pas vraiment",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","Non, pas du tout",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","SI OUI",FALSE,FALSE,FALSE
+"B7. Globalement, diriez-vous que, dans votre région, vous avez déjà constaté les effets du changement climatique ?","ST NON",FALSE,FALSE,FALSE
+"B5. À votre avis, le changement climatique aura-t-il là où vous habitez ?","Principalement des conséquences négatives",FALSE,FALSE,FALSE
+"B5. À votre avis, le changement climatique aura-t-il là où vous habitez ?","Autant des conséquences négatives que positives",FALSE,FALSE,FALSE
+"B5. À votre avis, le changement climatique aura-t-il là où vous habitez ?","Principalement des conséquences positives",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Tempêtes, vents forts, cyclones, etc.",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Fortes chaleurs, hausse des températures, canicules",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Inondations, montée des eaux",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Assèchement de cours d’eau, de lacs, etc.",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Le dérèglement des saisons",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Sècheresse",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Grands feux de forêt",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Autre",FALSE,FALSE,FALSE
+"B6b. Là où vous habitez, avez-vous subi ces dernières années les phénomènes suivants ?","Aucun de ceux cités",FALSE,FALSE,FALSE
+"ELEC1. Êtes-vous favorable ou défavorable à ce que, dans les 10 ans qui viennent dans votre pays, l’électricité remplace de plus en plus les énergies fossiles comme le pétrole, le charbon et le gaz dans tous les domaines possibles (chauffage, transport, production industrielle…) ?","ST Favorable",FALSE,FALSE,FALSE
+"ELEC1. Êtes-vous favorable ou défavorable à ce que, dans les 10 ans qui viennent dans votre pays, l’électricité remplace de plus en plus les énergies fossiles comme le pétrole, le charbon et le gaz dans tous les domaines possibles (chauffage, transport, production industrielle…) ?","ST Défavorable",FALSE,FALSE,FALSE
+"ELEC2. Selon vous, le fait que l’électricité remplace de plus en plus le pétrole, le charbon et le gaz dans tous les domaines possibles est-il très important, plutôt important, plutôt pas important, ou pas du tout important pour lutter contre le changement climatique ?","ST Important",FALSE,FALSE,FALSE
+"ELEC2. Selon vous, le fait que l’électricité remplace de plus en plus le pétrole, le charbon et le gaz dans tous les domaines possibles est-il très important, plutôt important, plutôt pas important, ou pas du tout important pour lutter contre le changement climatique ?","ST Pas important",FALSE,FALSE,FALSE
+"VEHELEC1. Personnellement, êtes-vous favorable ou défavorable au développement de la voiture électrique dans votre pays ?","ST Favorable",FALSE,FALSE,FALSE
+"VEHELEC1. Personnellement, êtes-vous favorable ou défavorable au développement de la voiture électrique dans votre pays ?","ST Défavorable",FALSE,FALSE,FALSE
